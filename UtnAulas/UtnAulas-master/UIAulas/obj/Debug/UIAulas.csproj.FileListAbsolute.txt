@@ -1,0 +1,13 @@
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\bin\Debug\UIAulas.exe.config
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\bin\Debug\UIAulas.exe
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\bin\Debug\UIAulas.pdb
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\bin\Debug\EntidadesAula.dll
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\bin\Debug\EntidadesAula.pdb
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.csprojResolveAssemblyReference.cache
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.FrmAgregarAlumno.resources
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.FrmListar.resources
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.FrmPrincipal.resources
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.Properties.Resources.resources
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.csproj.GenerateResource.Cache
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.exe
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\UIAulas\obj\Debug\UIAulas.pdb

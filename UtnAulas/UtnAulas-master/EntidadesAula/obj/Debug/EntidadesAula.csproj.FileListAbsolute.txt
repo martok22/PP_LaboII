@@ -1,0 +1,5 @@
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\EntidadesAula\bin\Debug\EntidadesAula.dll
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\EntidadesAula\bin\Debug\EntidadesAula.pdb
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\EntidadesAula\obj\Debug\EntidadesAula.csprojResolveAssemblyReference.cache
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\EntidadesAula\obj\Debug\EntidadesAula.dll
+D:\Marto\Repos Manuales\UtnAulas-master\UtnAulas-master\EntidadesAula\obj\Debug\EntidadesAula.pdb
